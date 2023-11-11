@@ -1,4 +1,5 @@
 # class-7-reading
+## All notes and answers are taken from reading. 
 class 7 reading and questions
 Domain Modeling (code fellows GitHub)<br> 
 Domain modeling is process of creating a concept model in code for specific<br>
@@ -168,4 +169,6 @@ c. object.create allow you to creat an object which will delegate to another obj
 6. Explain prototypes and inheritance via an analogy from your previous work experience.
   a. Protoypes do all the work, prototypes are the things behind the scenes that get used before the photo is     taken. Say you are out on location in Alaska doing a photoshoot and you want your models to ski down a         mountain/hill/whatever you use a prototype, and then later you use a functional sample to to show the           actual product. The “sample”/function looks nicer and gets a bit more credit while the prototype is out         there doing the ski bit. Inheritance works like if you are genetically predisposed to something you           probably inherited it from your parents much like code, it might not be totally visible at first, but as       you are attached/code is attached you inherit things from a parent code inherits properties from a parent
 
+## Things i want to know more about
+practice with constuctors, and objects, and yay it's similar to classes in python. 
      
